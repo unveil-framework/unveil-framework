@@ -1,6 +1,6 @@
-- 👋 Hi, this is @unveilframework's official Github account.
+# UNVEIL Framework
 
-<!---
-unveilframework/unveilframework is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋! This is @unveilframework's official Github account.
+This organization hosts any code and contents related to the project.
+
+For more information about the book or the authors [Sofía](https://github.com/sofiasmargolles) or [Félix](https://github.com/febrezo), check [unveilframework.net](https://unveilframework.net) or contact the authors via [email](mailto:contact@unveilframework.net)
